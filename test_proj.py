@@ -10,3 +10,8 @@ print(even(1))
 
 def hello():
     print('I love you')
+
+
+
+def bye():
+    print("bye-bye")
