@@ -18,3 +18,7 @@ def bye():
 
 def rus_bye():
     print("пока-пока")
+
+
+def counter():
+    print('one two three')
