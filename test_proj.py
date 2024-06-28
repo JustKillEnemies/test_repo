@@ -15,6 +15,7 @@ def hello():
 
 def bye():
     print("bye-bye")
+    #all right
 
 def rus_bye():
     print("пока-пока")
