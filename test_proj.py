@@ -1,24 +1,4 @@
-def even(x):
-    return x % 2
-
-
-print(even(100))
-
-print(even(199))
-#another check
-print(even(1))
-
-def hello():
-    print('I love you')
-
-
-
-def bye():
-    print("bye-bye")
-
-def rus_bye():
-    print("пока-пока")
-
-
-def counter():
-    print('one two three')
+def say():
+    print('hello')
+    #yeah true that is really boring tho
+    #duh bruh
